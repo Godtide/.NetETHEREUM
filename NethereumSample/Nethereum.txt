@@ -1,0 +1,7 @@
+More info :http://docs.nethereum.com/en/latest/getting-started/
+
+
+INFURA ID Not used 
+Name: Godtide
+mainnet.infura.io/v3/27cda4ab8a444b089b7b1956e503dded
+
